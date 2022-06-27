@@ -1,0 +1,29 @@
+ba 1 1
+bi 1
+bing 1
+chu 1
+d 4
+da 1
+dan 1
+dao 1
+ding 1
+fen 1
+hao 1
+jin 1
+jiu 1 1
+l 2
+ma 1
+mei 1
+mu 1
+qian 2
+shi 2
+shu 1
+ta 1
+tian 1
+xi 1
+xue 1
+yang 1
+you 1 1
+zan 1
+zhao 1
+zi 1
