@@ -3,7 +3,7 @@ ben 1
 bi 1
 bing 1
 chu 1
-d 4
+d 5
 da 1
 dan 1
 dao 1
@@ -23,9 +23,12 @@ shi 2
 shu 1
 ta 1
 tian 1
+wu 1
 xi 1
+xu 1
 xue 1
 yang 1
+yao 1
 you 1 1
 zan 1
 zhao 1
