@@ -16,8 +16,10 @@ fen 1
 gong 2
 gongshi 1
 hao 1
-jian 2
+he 1
+jian 2 1
 jin 1
+jing 1
 jiu 1 1
 ke 1
 keti 2
@@ -32,7 +34,8 @@ quan 1
 ren 1
 she 1
 sheqi 1
-shi 2 1 1
+shi 2 2 1 1
+shijian 1
 shu 1
 ta 1
 ti 4
@@ -44,7 +47,7 @@ xianyan 1
 xing 3
 xu 1
 xue 1
-yan 1
+yan 2
 yang 1
 yao 1
 ying 1
@@ -56,7 +59,8 @@ zhen 1
 zheng 1 1
 zhengquan 1
 zhengzhi 1
-zhi 1
+zhi 1 1
+zhishi 1
 zhu 2
 zi 1
 zong 1
