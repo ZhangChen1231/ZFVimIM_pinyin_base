@@ -2,15 +2,19 @@ ba 1 1
 ben 1
 bi 1
 bing 1
+bu 1
 chu 1
+cun 1
 d 6
 da 1
-dan 1
+dan 3
 dao 1
 ding 1
 fen 1
+gong 1
+gongshi 1
 hao 1
-jian 1
+jian 2
 jin 1
 jiu 1 1
 ke 1
@@ -23,26 +27,28 @@ mu 2
 qian 2
 quan 1
 ren 1
-shi 2 1
+shi 2 1 1
 shu 1
 ta 1
-ti 2
+ti 4
 tian 1
 wu 2
 xi 1
 xian 1
 xianyan 1
-xing 2
+xing 3
 xu 1
 xue 1
 yan 1
 yang 1
 yao 1
 you 1 1
+zai 1
 zan 1
 zhao 1
 zheng 1 1
 zhengquan 1
 zhengzhi 1
 zhi 1
+zhu 2
 zi 1
