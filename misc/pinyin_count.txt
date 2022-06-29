@@ -10,6 +10,8 @@ da 1
 dan 3
 dao 1
 ding 1
+fang 1
+fangzhen 1
 fen 1
 gong 1
 gongshi 1
@@ -46,9 +48,11 @@ you 1 1
 zai 1
 zan 1
 zhao 1
+zhen 1
 zheng 1 1
 zhengquan 1
 zhengzhi 1
 zhi 1
 zhu 2
 zi 1
+zong 1
