@@ -11,7 +11,7 @@ dan 3
 dao 1
 ding 1
 fang 1
-fangzhen 1
+fangzhen 2
 fen 1
 gong 2
 gongshi 1
