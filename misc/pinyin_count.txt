@@ -6,13 +6,14 @@ bu 3
 chang 1
 cheng 1
 chu 1
-cong 1
+ci 1
+cong 2
 cun 1
 d 14
 da 1
 dan 3
 dang 1
-dao 2
+dao 3
 de 1
 ding 1
 dou 1
@@ -26,16 +27,17 @@ gong 2
 gongshi 1
 gou 1
 guo 1
+hang 1
 hao 2
 he 3
 hu 1
-ji 1
+ji 2
 jia 1
 jian 2 1
 jiang 2
 jin 2
 jing 2
-jiu 2 1
+jiu 4 1
 jiuye 1
 kao 1
 ke 1
@@ -51,6 +53,7 @@ qi 1
 qian 2
 quan 1
 ren 1
+ri 1
 she 1
 shen 2
 sheng 1
@@ -78,7 +81,7 @@ xu 1
 xue 1
 yan 2
 yang 1
-yao 3
+yao 4
 ye 1
 ying 1
 you 2 1
