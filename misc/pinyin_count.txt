@@ -2,7 +2,7 @@ ba 1 1
 ben 1
 bi 1
 bing 2
-bu 3
+bu 4
 chang 1
 cheng 1
 chu 1
@@ -10,7 +10,7 @@ ci 1
 cong 2
 cun 1
 d 14
-da 1
+da 2
 dan 3
 dang 1
 dao 3
@@ -23,8 +23,9 @@ fangzhen 2
 fansi 1
 fei 1
 fen 1
-gong 2
+gong 2 1
 gongshi 1
+gongye 1
 gou 1
 guo 1
 hang 1
@@ -52,6 +53,7 @@ ni 2
 qi 1
 qian 2
 quan 1
+ran 1
 ren 1
 ri 1
 she 1
@@ -78,11 +80,11 @@ xie 1
 ximu 1
 xing 3
 xu 1
-xue 1
+xue 2
 yan 2
 yang 1
 yao 4
-ye 1
+ye 2
 ying 1
 you 2 1
 zai 1
