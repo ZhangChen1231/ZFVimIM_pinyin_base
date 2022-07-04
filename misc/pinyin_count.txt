@@ -30,6 +30,7 @@ hao 2
 he 3
 hu 1
 ji 1
+jia 1
 jian 2 1
 jiang 2
 jin 2
