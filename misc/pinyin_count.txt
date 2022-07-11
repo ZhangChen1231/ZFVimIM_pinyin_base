@@ -1,8 +1,8 @@
 ba 1 1
 ben 3
 bi 2
-bing 2
-bu 6
+bing 3
+bu 7
 buyue 1
 chang 1
 cheng 3
@@ -10,7 +10,7 @@ chu 1
 ci 1
 cong 4
 cun 1
-d 18
+d 20
 da 2
 dai 1 1
 daishu 1
@@ -52,7 +52,7 @@ kao 1
 ke 1
 keti 2
 l 5
-le 2
+le 3
 ma 2
 mai 1
 me 2
@@ -106,7 +106,7 @@ yi 1
 ying 1
 you 3 1
 yue 1
-zai 3
+zai 4
 zan 1
 zhao 1
 zhe 4 3
@@ -122,5 +122,5 @@ zhu 5
 zhuang 1
 zi 1 1
 zong 2
-zongjie 1
+zongjie 2
 zuo 1
