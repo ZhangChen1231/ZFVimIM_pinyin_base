@@ -1,5 +1,5 @@
 ba 1 1
-ben 2
+ben 3
 bi 2
 bing 2
 bu 6
@@ -8,10 +8,12 @@ chang 1
 cheng 3
 chu 1
 ci 1
-cong 2
+cong 4
 cun 1
-d 16
+d 18
 da 2
+dai 1 1
+daishu 1
 dan 3
 dang 1
 dao 3
@@ -24,6 +26,7 @@ fangzhen 2
 fansi 1
 fei 1
 fen 1
+gan 1
 gong 3 1
 gongshi 1
 gongye 1
@@ -33,6 +36,7 @@ hang 1
 hao 2
 he 3
 hu 1
+huo 1
 ji 5
 jia 1
 jian 2 1
@@ -43,12 +47,14 @@ jing 2 1
 jiu 4 1
 jiuye 1
 ju 1
+jue 1
 kao 1
 ke 1
 keti 2
 l 5
-le 1
-ma 1
+le 2
+ma 2
+mai 1
 me 2
 mei 1 1
 meishi 1
@@ -70,7 +76,7 @@ shi 5 2 2 1
 shijian 1
 shiti 1
 shou 2
-shu 1
+shu 4
 si 2 1 1
 ta 1
 ti 8
@@ -81,27 +87,29 @@ wei 4 1
 wo 2
 wu 2
 xi 1 1
-xia 1
-xian 1
+xia 2
+xian 2
 xiang 1
 xianyan 1
-xie 1
+xie 1 1
+xiezi 1
 ximu 1
+xin 1
 xing 3
-xu 2
+xu 3
 xue 2
 yan 2
 yang 1
-yao 5
+yao 6
 ye 2
 yi 1
 ying 1
 you 3 1
 yue 1
-zai 2
+zai 3
 zan 1
 zhao 1
-zhe 3 3
+zhe 4 3
 zhen 1
 zheng 1 1
 zhengquan 1
@@ -109,10 +117,10 @@ zhengzhi 1
 zhi 1 1 1
 zhishi 1
 zhong 1
-zhou 1
+zhou 2
 zhu 5
 zhuang 1
-zi 1
+zi 1 1
 zong 2
 zongjie 1
 zuo 1
