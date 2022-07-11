@@ -1,11 +1,11 @@
 ba 1 1
-ben 1
+ben 2
 bi 2
 bing 2
 bu 6
 buyue 1
 chang 1
-cheng 2
+cheng 3
 chu 1
 ci 1
 cong 2
@@ -46,7 +46,7 @@ ju 1
 kao 1
 ke 1
 keti 2
-l 4
+l 5
 le 1
 ma 1
 me 2
@@ -76,6 +76,7 @@ ta 1
 ti 8
 tian 1
 tong 1
+wan 1
 wei 4 1
 wo 2
 wu 2
@@ -108,6 +109,7 @@ zhengzhi 1
 zhi 1 1 1
 zhishi 1
 zhong 1
+zhou 1
 zhu 5
 zhuang 1
 zi 1
