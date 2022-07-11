@@ -37,6 +37,7 @@ ji 5
 jia 1
 jian 2 1
 jiang 2
+jie 1
 jin 2
 jing 2 1
 jiu 4 1
@@ -110,5 +111,6 @@ zhong 1
 zhu 5
 zhuang 1
 zi 1
-zong 1
+zong 2
+zongjie 1
 zuo 1
