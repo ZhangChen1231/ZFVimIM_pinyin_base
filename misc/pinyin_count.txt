@@ -53,6 +53,7 @@ ke 1
 keti 2
 l 5
 le 3
+li 1
 ma 2
 mai 1
 me 2
@@ -105,6 +106,8 @@ ye 2
 yi 1
 ying 1
 you 3 1
+yuan 1
+yuanli 2
 yue 1
 zai 4
 zan 1
